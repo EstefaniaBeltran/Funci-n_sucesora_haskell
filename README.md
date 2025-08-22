@@ -52,7 +52,8 @@ Entrada: suma 4 3
 Proceso: aplica el sucesor de 4 tres veces → 5, 6, 7.
 
 Resultado: 7
-!(imagensuma.png)
+
+![suma](imagensuma.png)
 
 2. Resta
 
@@ -62,6 +63,8 @@ Proceso: aplica el predecesor de 9 cinco veces → 8, 7, 6, 5, 4.
 
 Resultado: 4
 
+![resta](imagenresta.png)
+
 3.Multiplicación
 
 Entrada: multi 6 2
@@ -69,6 +72,8 @@ Entrada: multi 6 2
 Proceso: suma 6 dos veces → 6 + 6.
 
 Resultado: 12
+
+![suma](imagenmulti.png)
 
 4. División exacta
 
@@ -79,6 +84,8 @@ Proceso: restar 4 a 12 hasta que no se pueda más →
 Se realizaron 3 restas.
 
 Resultado: 3
+
+![suma](imagendivi.png)
 
 5. División no exacta
 
@@ -98,6 +105,8 @@ Entrada: addReal 2.5 3.5
 Proceso: suma directa de dos Float → 2.5 + 3.5.
 
 Resultado: 6.0
+
+![suma](imagenreal.png)
 
 
 
