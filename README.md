@@ -64,7 +64,8 @@ Proceso: aplica el predecesor de 9 cinco veces → 8, 7, 6, 5, 4.
 
 Resultado: 4
 
-![resta](imagenresta.png)
+![suma](imagenes.png/imagenresta.png)
+
 
 3.Multiplicación
 
@@ -74,7 +75,8 @@ Proceso: suma 6 dos veces → 6 + 6.
 
 Resultado: 12
 
-![suma](imagenmulti.png)
+![suma](imagenes.png/imagenmulti.png)
+
 
 4. División exacta
 
@@ -86,7 +88,8 @@ Se realizaron 3 restas.
 
 Resultado: 3
 
-![suma](imagendivi.png)
+![suma](imagenes.png/imagendivi.png)
+
 
 5. División no exacta
 
@@ -107,11 +110,5 @@ Proceso: suma directa de dos Float → 2.5 + 3.5.
 
 Resultado: 6.0
 
-![suma](imagenreal.png)
+![suma](imagenes.png/imagenreal.png)
 
-
-
-
-
-
-E
