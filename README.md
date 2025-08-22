@@ -99,8 +99,10 @@ Proceso: restar 3 a 7 →
 7 - 3 = 4, 4 - 3 = 1.
 No se puede restar otra vez porque 1 < 3.
 Se realizaron 2 restas.
-
 Resultado: 2
+
+![suma](imagenes.png/imagen.png)
+
 
 6. Suma de reales (caso 1)
 
