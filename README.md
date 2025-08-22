@@ -53,7 +53,8 @@ Proceso: aplica el sucesor de 4 tres veces → 5, 6, 7.
 
 Resultado: 7. 
 
-![suma](imagenes/imagensuma.png)
+![suma](imagenes.png/imagensuma.png)
+
 
 2. Resta
 
