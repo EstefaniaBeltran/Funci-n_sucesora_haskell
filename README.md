@@ -52,6 +52,7 @@ Entrada: suma 4 3
 Proceso: aplica el sucesor de 4 tres veces → 5, 6, 7.
 
 Resultado: 7
+!(imagensuma.png)
 
 2. Resta
 
